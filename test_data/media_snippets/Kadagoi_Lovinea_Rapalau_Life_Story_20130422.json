@@ -1,0 +1,1364 @@
+{
+  "Kadagoi Lovinea Rapalau_a1": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a1",
+    "timeSlotRef1": "ts1",
+    "timeSlotRef2": "ts2",
+    "timeStamp1": 2877,
+    "timeStamp2": 7241,
+    "text": "Ngau neraurau mainangan ngahau nenlo ngagamukaba ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAU",
+        2877,
+        3545
+      ],
+      [
+        "NERAURAU",
+        3618,
+        4300
+      ],
+      [
+        "MAINANGAN",
+        4307,
+        5353
+      ],
+      [
+        "NGAHAU",
+        5520,
+        6079
+      ],
+      [
+        "NENLO",
+        6108,
+        6326
+      ],
+      [
+        "NGAGAMUKABA",
+        6355,
+        6914
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a2": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a2",
+    "timeSlotRef1": "ts3",
+    "timeSlotRef2": "ts4",
+    "timeStamp1": 8181,
+    "timeStamp2": 10561,
+    "text": "Ngahau nen mainangan Matugar pain",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAHAU",
+        8181,
+        8545
+      ],
+      [
+        "NEN",
+        8574,
+        8625
+      ],
+      [
+        "MAINANGAN",
+        8661,
+        9469
+      ],
+      [
+        "MATUGAR",
+        9477,
+        9891
+      ],
+      [
+        "PAIN",
+        10001,
+        10561
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a3": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a3",
+    "timeSlotRef1": "ts5",
+    "timeSlotRef2": "ts6",
+    "timeStamp1": 11412,
+    "timeStamp2": 14175,
+    "text": "Madonge yawe Kudag tamat ngalenge",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MADONGE",
+        11412,
+        12408
+      ],
+      [
+        "YAWE",
+        12459,
+        12655
+      ],
+      [
+        "KUDAG",
+        12793,
+        13026
+      ],
+      [
+        "TAMAT",
+        13142,
+        13382
+      ],
+      [
+        "NGALENGE",
+        13506,
+        14175
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a4": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a4",
+    "timeSlotRef1": "ts7",
+    "timeSlotRef2": "ts8",
+    "timeStamp1": 15006,
+    "timeStamp2": 17466,
+    "text": "Ida dimadonge dinagayamame ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "IDA",
+        15006,
+        15297
+      ],
+      [
+        "DIMADONGE",
+        15326,
+        15668
+      ],
+      [
+        "DINAGAYAMAME",
+        15712,
+        17211
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a5": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a5",
+    "timeSlotRef1": "ts9",
+    "timeSlotRef2": "ts10",
+    "timeStamp1": 17604,
+    "timeStamp2": 20013,
+    "text": "Diyamatamame yauwe ngam huyahuyae",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "DIYAMATAMAME",
+        17604,
+        18914
+      ],
+      [
+        "YAUWE",
+        18994,
+        19176
+      ],
+      [
+        "NGAM",
+        19198,
+        19387
+      ],
+      [
+        "HUYAHUYAE",
+        19394,
+        20013
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a6": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a6",
+    "timeSlotRef1": "ts11",
+    "timeSlotRef2": "ts12",
+    "timeStamp1": 20206,
+    "timeStamp2": 23506,
+    "text": "Ngau ngauwe pain dabokado tamat ngangalenge",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAU",
+        20206,
+        20657
+      ],
+      [
+        "NGAUWE",
+        20722,
+        20998
+      ],
+      [
+        "PAIN",
+        21136,
+        21304
+      ],
+      [
+        "DABOKADO",
+        21333,
+        22256
+      ],
+      [
+        "TAMAT",
+        22481,
+        22699
+      ],
+      [
+        "NGANGALENGE",
+        22815,
+        23506
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a7": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a7",
+    "timeSlotRef1": "ts13",
+    "timeSlotRef2": "ts14",
+    "timeStamp1": 24760,
+    "timeStamp2": 27417,
+    "text": "Ngahau tamat mainangan Ali do Surumaran ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAHAU",
+        24760,
+        25146
+      ],
+      [
+        "TAMAT",
+        25240,
+        25495
+      ],
+      [
+        "MAINANGAN",
+        25561,
+        26158
+      ],
+      [
+        "ALI",
+        26391,
+        26449
+      ],
+      [
+        "DO",
+        26500,
+        26609
+      ],
+      [
+        "SURUMARAN",
+        26624,
+        27191
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a8": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a8",
+    "timeSlotRef1": "ts15",
+    "timeSlotRef2": "ts16",
+    "timeStamp1": 28168,
+    "timeStamp2": 32245,
+    "text": "Ngamadonge ngau tamat ab yabinge abi ngambinge tie",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAMADONGE",
+        28168,
+        28960
+      ],
+      [
+        "NGAU",
+        28982,
+        29294
+      ],
+      [
+        "TAMAT",
+        29360,
+        29571
+      ],
+      [
+        "AB",
+        29687,
+        29789
+      ],
+      [
+        "YABINGE",
+        29839,
+        30428
+      ],
+      [
+        "ABI",
+        30494,
+        30690
+      ],
+      [
+        "NGAMBINGE",
+        30697,
+        31504
+      ],
+      [
+        "TIE",
+        31511,
+        32245
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a9": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a9",
+    "timeSlotRef1": "ts17",
+    "timeSlotRef2": "ts18",
+    "timeStamp1": 32486,
+    "timeStamp2": 35646,
+    "text": "Ngamadondo ngau aim aipainim nganagedine",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAMADONDO",
+        32486,
+        33387
+      ],
+      [
+        "NGAU",
+        33438,
+        33612
+      ],
+      [
+        "AIM",
+        33801,
+        34026
+      ],
+      [
+        "AIPAINIM",
+        34186,
+        34665
+      ],
+      [
+        "NGANAGEDINE",
+        34709,
+        35646
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a10": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a10",
+    "timeSlotRef1": "ts19",
+    "timeSlotRef2": "ts20",
+    "timeStamp1": 36392,
+    "timeStamp2": 38869,
+    "text": "Ngam yamataie ngamadonge yau",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAM",
+        36392,
+        36559
+      ],
+      [
+        "YAMATAIE",
+        36639,
+        37453
+      ],
+      [
+        "NGAMADONGE",
+        37518,
+        37983
+      ],
+      [
+        "YAU",
+        38477,
+        38869
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a11": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a11",
+    "timeSlotRef1": "ts21",
+    "timeSlotRef2": "ts22",
+    "timeStamp1": 39088,
+    "timeStamp2": 42278,
+    "text": "Malal main ngammeninge haun malal turan ngamawe ngammadonge",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MALAL",
+        39088,
+        39466
+      ],
+      [
+        "MAIN",
+        39517,
+        39655
+      ],
+      [
+        "NGAMMENINGE",
+        39677,
+        40018
+      ],
+      [
+        "HAUN",
+        40251,
+        40512
+      ],
+      [
+        "MALAL",
+        40570,
+        40846
+      ],
+      [
+        "TURAN",
+        40919,
+        41123
+      ],
+      [
+        "NGAMAWE",
+        41188,
+        41530
+      ],
+      [
+        "NGAMMADONGE",
+        41588,
+        42278
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a12": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a12",
+    "timeSlotRef1": "ts23",
+    "timeSlotRef2": "ts24",
+    "timeStamp1": 42308,
+    "timeStamp2": 43088,
+    "text": "Aben haun",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "ABEN",
+        42308,
+        42665
+      ],
+      [
+        "HAUN",
+        42694,
+        43088
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a13": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a13",
+    "timeSlotRef1": "ts25",
+    "timeSlotRef2": "ts26",
+    "timeStamp1": 43668,
+    "timeStamp2": 44625,
+    "text": "Ngam madonge",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAM",
+        43668,
+        44033
+      ],
+      [
+        "MADONGE",
+        44274,
+        44625
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a14": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a14",
+    "timeSlotRef1": "ts27",
+    "timeSlotRef2": "ts28",
+    "timeStamp1": 44755,
+    "timeStamp2": 45755,
+    "text": "Yauwe",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "YAUWE",
+        44755,
+        45755
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a15": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a15",
+    "timeSlotRef1": "ts29",
+    "timeSlotRef2": "ts30",
+    "timeStamp1": 46495,
+    "timeStamp2": 48709,
+    "text": "Ab yabinge malalhaun mainte",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "AB",
+        46495,
+        46925
+      ],
+      [
+        "YABINGE",
+        47063,
+        47347
+      ],
+      [
+        "MALALHAUN",
+        47369,
+        48221
+      ],
+      [
+        "MAINTE",
+        48330,
+        48709
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a16": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a16",
+    "timeSlotRef1": "ts31",
+    "timeSlotRef2": "ts32",
+    "timeStamp1": 48709,
+    "timeStamp2": 56519,
+    "text": "Ab yabinge ngamadonge abingambinge ngamam aipainim ngamyamataido ngamyamataido yau huyan huyane",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "AB",
+        48709,
+        48919
+      ],
+      [
+        "YABINGE",
+        49079,
+        49478
+      ],
+      [
+        "NGAMADONGE",
+        49507,
+        49972
+      ],
+      [
+        "ABINGAMBINGE",
+        50066,
+        50480
+      ],
+      [
+        "NGAMAM",
+        50516,
+        50930
+      ],
+      [
+        "AIPAINIM",
+        51039,
+        51634
+      ],
+      [
+        "NGAMYAMATAIDO",
+        51670,
+        52766
+      ],
+      [
+        "NGAMYAMATAIDO",
+        52941,
+        55024
+      ],
+      [
+        "YAU",
+        55089,
+        55242
+      ],
+      [
+        "HUYAN",
+        55285,
+        55503
+      ],
+      [
+        "HUYANE",
+        55575,
+        56519
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a17": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a17",
+    "timeSlotRef1": "ts33",
+    "timeSlotRef2": "ts34",
+    "timeStamp1": 57046,
+    "timeStamp2": 61347,
+    "text": "Diyauwe sulelo diyadine aipainim ngau aipainim hudungan sule diyauale  ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "DIYAUWE",
+        57046,
+        57889
+      ],
+      [
+        "SULELO",
+        57911,
+        58354
+      ],
+      [
+        "DIYADINE",
+        58535,
+        58964
+      ],
+      [
+        "AIPAINIM",
+        59015,
+        59465
+      ],
+      [
+        "NGAU",
+        59494,
+        59661
+      ],
+      [
+        "AIPAINIM",
+        59669,
+        59996
+      ],
+      [
+        "HUDUNGAN",
+        60025,
+        60359
+      ],
+      [
+        "SULE",
+        60366,
+        60693
+      ],
+      [
+        "DIYAUALE",
+        60700,
+        61180
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a18": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a18",
+    "timeSlotRef1": "ts35",
+    "timeSlotRef2": "ts36",
+    "timeStamp1": 61757,
+    "timeStamp2": 67673,
+    "text": "Diyauwe disuledo ngam ngamadonge malalte abi ngambingdo bom hurat ngamnagendo ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "DIYAUWE",
+        61757,
+        62432
+      ],
+      [
+        "DISULEDO",
+        62468,
+        63093
+      ],
+      [
+        "NGAM",
+        63100,
+        63339
+      ],
+      [
+        "NGAMADONGE",
+        63376,
+        63739
+      ],
+      [
+        "MALALTE",
+        63760,
+        64145
+      ],
+      [
+        "ABI",
+        64385,
+        64610
+      ],
+      [
+        "NGAMBINGDO",
+        64617,
+        65103
+      ],
+      [
+        "BOM",
+        65154,
+        65350
+      ],
+      [
+        "HURAT",
+        66120,
+        66512
+      ],
+      [
+        "NGAMNAGENDO",
+        66642,
+        67484
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a19": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a19",
+    "timeSlotRef1": "ts37",
+    "timeSlotRef2": "ts38",
+    "timeStamp1": 67903,
+    "timeStamp2": 72568,
+    "text": "Bom ngamngale palum abate hiendope ngampidap wasingwai darukwai ngamtorago ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "BOM",
+        67903,
+        68513
+      ],
+      [
+        "NGAMNGALE",
+        68557,
+        68905
+      ],
+      [
+        "PALUM",
+        68957,
+        69218
+      ],
+      [
+        "ABATE",
+        69233,
+        69385
+      ],
+      [
+        "HIENDOPE",
+        69451,
+        69916
+      ],
+      [
+        "NGAMPIDAP",
+        70068,
+        70599
+      ],
+      [
+        "WASINGWAI",
+        70657,
+        71129
+      ],
+      [
+        "DARUKWAI",
+        71137,
+        71652
+      ],
+      [
+        "NGAMTORAGO",
+        71660,
+        72219
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a20": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a20",
+    "timeSlotRef1": "ts39",
+    "timeSlotRef2": "ts40",
+    "timeStamp1": 73036,
+    "timeStamp2": 76051,
+    "text": "Wasing daruk ngam abate ngam nagehiandope",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "WASING",
+        73036,
+        73661
+      ],
+      [
+        "DARUK",
+        73668,
+        73893
+      ],
+      [
+        "NGAM",
+        73944,
+        74206
+      ],
+      [
+        "ABATE",
+        74307,
+        74721
+      ],
+      [
+        "NGAM",
+        74729,
+        75019
+      ],
+      [
+        "NAGEHIANDOPE",
+        75056,
+        76051
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a21": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a21",
+    "timeSlotRef1": "ts41",
+    "timeSlotRef2": "ts42",
+    "timeStamp1": 77062,
+    "timeStamp2": 83412,
+    "text": "Ngamneima garib ngambal tamat disapid ngam pandin dinindop diadinago ngau aipainim ngamyamataigo",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAMNEIMA",
+        77062,
+        78028
+      ],
+      [
+        "GARIB",
+        78232,
+        78442
+      ],
+      [
+        "NGAMBAL",
+        78457,
+        78922
+      ],
+      [
+        "TAMAT",
+        79002,
+        79227
+      ],
+      [
+        "DISAPID",
+        79336,
+        79554
+      ],
+      [
+        "NGAM",
+        79728,
+        79968
+      ],
+      [
+        "PANDIN",
+        80128,
+        80484
+      ],
+      [
+        "DININDOP",
+        80535,
+        80920
+      ],
+      [
+        "DIADINAGO",
+        80985,
+        81646
+      ],
+      [
+        "NGAU",
+        81654,
+        81821
+      ],
+      [
+        "AIPAINIM",
+        81901,
+        82228
+      ],
+      [
+        "NGAMYAMATAIGO",
+        82235,
+        83412
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a22": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a22",
+    "timeSlotRef1": "ts43",
+    "timeSlotRef2": "ts44",
+    "timeStamp1": 83602,
+    "timeStamp2": 86127,
+    "text": "Ngau tamat main ti hurat nagenggokai",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAU",
+        83602,
+        84046
+      ],
+      [
+        "TAMAT",
+        84119,
+        84381
+      ],
+      [
+        "MAIN",
+        84497,
+        84620
+      ],
+      [
+        "TI",
+        84715,
+        84875
+      ],
+      [
+        "HURAT",
+        84890,
+        85021
+      ],
+      [
+        "NAGENGGOKAI",
+        85166,
+        86127
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a23": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a23",
+    "timeSlotRef1": "ts45",
+    "timeSlotRef2": "ts46",
+    "timeStamp1": 86305,
+    "timeStamp2": 87621,
+    "text": "Malalte madonggo",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MALALTE",
+        86305,
+        86938
+      ],
+      [
+        "MADONGGO",
+        86959,
+        87621
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a24": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a24",
+    "timeSlotRef1": "ts47",
+    "timeSlotRef2": "ts48",
+    "timeStamp1": 87893,
+    "timeStamp2": 94220,
+    "text": "Mariu kakau paidinago main ngangalema ngadaddope matan ngangalengo",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MARIU",
+        87893,
+        88590
+      ],
+      [
+        "KAKAU",
+        88808,
+        89259
+      ],
+      [
+        "PAIDINAGO",
+        89346,
+        90181
+      ],
+      [
+        "MAIN",
+        90864,
+        91155
+      ],
+      [
+        "NGANGALEMA",
+        91169,
+        92360
+      ],
+      [
+        "NGADADDOPE",
+        92506,
+        92956
+      ],
+      [
+        "MATAN",
+        92971,
+        93334
+      ],
+      [
+        "NGANGALENGO",
+        93363,
+        94220
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a25": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a25",
+    "timeSlotRef1": "ts49",
+    "timeSlotRef2": "ts50",
+    "timeStamp1": 94738,
+    "timeStamp2": 100064,
+    "text": "Matan ngangalema ngahau aipainim adi sulungadi dadago dinagendope sule diyawe",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MATAN",
+        94738,
+        94956
+      ],
+      [
+        "NGANGALEMA",
+        94963,
+        95319
+      ],
+      [
+        "NGAHAU",
+        95334,
+        95922
+      ],
+      [
+        "AIPAINIM",
+        96482,
+        96852
+      ],
+      [
+        "ADI",
+        96918,
+        97078
+      ],
+      [
+        "SULUNGADI",
+        97114,
+        97623
+      ],
+      [
+        "DADAGO",
+        97637,
+        98291
+      ],
+      [
+        "DINAGENDOPE",
+        98364,
+        99054
+      ],
+      [
+        "SULE",
+        99061,
+        99214
+      ],
+      [
+        "DIYAWE",
+        99272,
+        100064
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a26": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a26",
+    "timeSlotRef1": "ts51",
+    "timeSlotRef2": "ts52",
+    "timeStamp1": 100803,
+    "timeStamp2": 108271,
+    "text": "Do ngamadonge yauwe gamoni mainangan ngamam ab gam ayane wagamanenago ngamam abate sul tati ",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "DO",
+        100803,
+        101094
+      ],
+      [
+        "NGAMADONGE",
+        101144,
+        101624
+      ],
+      [
+        "YAUWE",
+        101813,
+        101980
+      ],
+      [
+        "GAMONI",
+        102023,
+        102394
+      ],
+      [
+        "MAINANGAN",
+        102445,
+        102917
+      ],
+      [
+        "NGAMAM",
+        102924,
+        103920
+      ],
+      [
+        "AB",
+        103927,
+        104108
+      ],
+      [
+        "GAM",
+        104181,
+        104428
+      ],
+      [
+        "AYANE",
+        105125,
+        105445
+      ],
+      [
+        "WAGAMANENAGO",
+        105474,
+        106353
+      ],
+      [
+        "NGAMAM",
+        106527,
+        106789
+      ],
+      [
+        "ABATE",
+        106905,
+        107290
+      ],
+      [
+        "SUL",
+        107298,
+        107545
+      ],
+      [
+        "TATI",
+        107617,
+        108082
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a27": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a27",
+    "timeSlotRef1": "ts53",
+    "timeSlotRef2": "ts54",
+    "timeStamp1": 108771,
+    "timeStamp2": 110510,
+    "text": "Gamoni ngammadonggo main",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "GAMONI",
+        108771,
+        109142
+      ],
+      [
+        "NGAMMADONGGO",
+        109178,
+        109695
+      ],
+      [
+        "MAIN",
+        109753,
+        110510
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a28": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a28",
+    "timeSlotRef1": "ts55",
+    "timeSlotRef2": "ts56",
+    "timeStamp1": 110765,
+    "timeStamp2": 117435,
+    "text": "Manage ngamam madok gamoni main i lomam gerenggo ab hona ngamindop sul ngamam abate palumbai",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MANAGE",
+        110765,
+        111804
+      ],
+      [
+        "NGAMAM",
+        112109,
+        112393
+      ],
+      [
+        "MADOK",
+        112422,
+        112640
+      ],
+      [
+        "GAMONI",
+        112836,
+        113279
+      ],
+      [
+        "MAIN",
+        113308,
+        113497
+      ],
+      [
+        "I",
+        113533,
+        113541
+      ],
+      [
+        "LOMAM",
+        113555,
+        113962
+      ],
+      [
+        "GERENGGO",
+        114006,
+        114209
+      ],
+      [
+        "AB",
+        114296,
+        114376
+      ],
+      [
+        "HONA",
+        114427,
+        114609
+      ],
+      [
+        "NGAMINDOP",
+        114630,
+        115154
+      ],
+      [
+        "SUL",
+        115219,
+        115495
+      ],
+      [
+        "NGAMAM",
+        116040,
+        116454
+      ],
+      [
+        "ABATE",
+        116534,
+        116723
+      ],
+      [
+        "PALUMBAI",
+        116788,
+        117435
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a29": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a29",
+    "timeSlotRef1": "ts57",
+    "timeSlotRef2": "ts58",
+    "timeStamp1": 118199,
+    "timeStamp2": 120596,
+    "text": "Main wai i lomam girendo ngammadonggo",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MAIN",
+        118199,
+        118620
+      ],
+      [
+        "WAI",
+        118649,
+        118787
+      ],
+      [
+        "I",
+        118882,
+        118947
+      ],
+      [
+        "LOMAM",
+        118983,
+        119129
+      ],
+      [
+        "GIRENDO",
+        119180,
+        119521
+      ],
+      [
+        "NGAMMADONGGO",
+        119528,
+        120596
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a30": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a30",
+    "timeSlotRef1": "ts59",
+    "timeSlotRef2": "ts60",
+    "timeStamp1": 122705,
+    "timeStamp2": 125209,
+    "text": "Mainami ngahau gamuk takuran mainami",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "MAINAMI",
+        122705,
+        123571
+      ],
+      [
+        "NGAHAU",
+        123578,
+        123833
+      ],
+      [
+        "GAMUK",
+        123899,
+        124066
+      ],
+      [
+        "TAKURAN",
+        124183,
+        124510
+      ],
+      [
+        "MAINAMI",
+        124561,
+        125209
+      ]
+    ]
+  },
+  "Kadagoi Lovinea Rapalau_a31": {
+    "tiername": "Kadagoi Lovinea Rapalau",
+    "annoID": "a31",
+    "timeSlotRef1": "ts61",
+    "timeSlotRef2": "ts62",
+    "timeStamp1": 127931,
+    "timeStamp2": 130097,
+    "text": "Ngau neraurau tiyale",
+    "tier_new": "Kadagoi Lovinea Rapalau_words",
+    "words": [
+      [
+        "NGAU",
+        127931,
+        128244
+      ],
+      [
+        "NERAURAU",
+        128251,
+        128571
+      ],
+      [
+        "TIYALE",
+        128665,
+        130097
+      ]
+    ]
+  }
+}

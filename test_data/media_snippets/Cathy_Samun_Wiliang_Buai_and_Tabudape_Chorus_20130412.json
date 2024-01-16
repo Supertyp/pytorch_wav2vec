@@ -1,0 +1,1920 @@
+{
+  "Cathy Samun Wiliang_a1": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a1",
+    "timeSlotRef1": "ts1",
+    "timeSlotRef2": "ts2",
+    "timeStamp1": 4730,
+    "timeStamp2": 7480,
+    "text": "Yangau Cathy Samun ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "YANGAU",
+        4730,
+        5407
+      ],
+      [
+        "CATHY",
+        6294,
+        6687
+      ],
+      [
+        "SAMUN",
+        6745,
+        7116
+      ],
+      [
+        "AI",
+        7276,
+        7480
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a2": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a2",
+    "timeSlotRef1": "ts3",
+    "timeSlotRef2": "ts4",
+    "timeStamp1": 8860,
+    "timeStamp2": 10780,
+    "text": "Ngahau mam yangan Daidai ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAHAU",
+        8860,
+        9216
+      ],
+      [
+        "MAM",
+        9296,
+        9427
+      ],
+      [
+        "YANGAN",
+        9507,
+        9653
+      ],
+      [
+        "DAIDAI",
+        9682,
+        10067
+      ],
+      [
+        "AI",
+        10075,
+        10780
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a3": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a3",
+    "timeSlotRef1": "ts5",
+    "timeSlotRef2": "ts6",
+    "timeStamp1": 11821,
+    "timeStamp2": 14853,
+    "text": "Ngau tamat yangan Wiliang Yasung ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAU",
+        11821,
+        12337
+      ],
+      [
+        "TAMAT",
+        12439,
+        12672
+      ],
+      [
+        "YANGAN",
+        12759,
+        13043
+      ],
+      [
+        "WILIANG",
+        13144,
+        13493
+      ],
+      [
+        "YASUNG",
+        14031,
+        14584
+      ],
+      [
+        "AI",
+        14591,
+        14853
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a4": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a4",
+    "timeSlotRef1": "ts7",
+    "timeSlotRef2": "ts8",
+    "timeStamp1": 15733,
+    "timeStamp2": 19160,
+    "text": "Ngahau nen mam Matugar tamatpainim",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAHAU",
+        15733,
+        16394
+      ],
+      [
+        "NEN",
+        16553,
+        16720
+      ],
+      [
+        "MAM",
+        17802,
+        17911
+      ],
+      [
+        "MATUGAR",
+        17955,
+        18231
+      ],
+      [
+        "TAMATPAINIM",
+        18281,
+        19160
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a5": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a5",
+    "timeSlotRef1": "ts9",
+    "timeSlotRef2": "ts10",
+    "timeStamp1": 20618,
+    "timeStamp2": 22709,
+    "text": "Ngau Matugar tamat ngangalenge",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAU",
+        20618,
+        21026
+      ],
+      [
+        "MATUGAR",
+        21092,
+        21463
+      ],
+      [
+        "TAMAT",
+        21514,
+        21776
+      ],
+      [
+        "NGANGALENGE",
+        21849,
+        22709
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a6": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a6",
+    "timeSlotRef1": "ts11",
+    "timeSlotRef2": "ts12",
+    "timeStamp1": 24013,
+    "timeStamp2": 25977,
+    "text": "Hamam aipain aim tol",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "HAMAM",
+        24013,
+        24755
+      ],
+      [
+        "AIPAIN",
+        24893,
+        25184
+      ],
+      [
+        "AIM",
+        25279,
+        25359
+      ],
+      [
+        "TOL",
+        25482,
+        25977
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a7": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a7",
+    "timeSlotRef1": "ts13",
+    "timeSlotRef2": "ts14",
+    "timeStamp1": 27757,
+    "timeStamp2": 34253,
+    "text": "Muganen mainangan Gumos ai Salome ai do aim tahaik  Yasung ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MUGANEN",
+        27757,
+        28266
+      ],
+      [
+        "MAINANGAN",
+        28302,
+        29029
+      ],
+      [
+        "GUMOS",
+        29668,
+        30322
+      ],
+      [
+        "AI",
+        30366,
+        30416
+      ],
+      [
+        "SALOME",
+        30518,
+        31158
+      ],
+      [
+        "AI",
+        31267,
+        31296
+      ],
+      [
+        "DO",
+        31347,
+        31361
+      ],
+      [
+        "AIM",
+        31492,
+        31601
+      ],
+      [
+        "TAHAIK",
+        31775,
+        32088
+      ],
+      [
+        "YASUNG",
+        33403,
+        33839
+      ],
+      [
+        "AI",
+        33991,
+        34253
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a9": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a9",
+    "timeSlotRef1": "ts15",
+    "timeSlotRef2": "ts16",
+    "timeStamp1": 34721,
+    "timeStamp2": 37607,
+    "text": "Tibun han yayaman ngamnagenge tamat",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "TIBUN",
+        34721,
+        35230
+      ],
+      [
+        "HAN",
+        35484,
+        35593
+      ],
+      [
+        "YAYAMAN",
+        35848,
+        36386
+      ],
+      [
+        "NGAMNAGENGE",
+        36458,
+        37076
+      ],
+      [
+        "TAMAT",
+        37113,
+        37607
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a10": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a10",
+    "timeSlotRef1": "ts17",
+    "timeSlotRef2": "ts18",
+    "timeStamp1": 38705,
+    "timeStamp2": 40537,
+    "text": "Do ngau sulelo ngauwe",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        38705,
+        39221
+      ],
+      [
+        "NGAU",
+        39265,
+        39432
+      ],
+      [
+        "SULELO",
+        39476,
+        40413
+      ],
+      [
+        "NGAUWE",
+        40421,
+        40537
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a11": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a11",
+    "timeSlotRef1": "ts19",
+    "timeSlotRef2": "ts20",
+    "timeStamp1": 40926,
+    "timeStamp2": 43717,
+    "text": "Ngahau sule tomante ti tiale",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAHAU",
+        40926,
+        41747
+      ],
+      [
+        "SULE",
+        41827,
+        42140
+      ],
+      [
+        "TOMANTE",
+        42191,
+        42685
+      ],
+      [
+        "TI",
+        42758,
+        42874
+      ],
+      [
+        "TIALE",
+        42954,
+        43717
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a12": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a12",
+    "timeSlotRef1": "ts21",
+    "timeSlotRef2": "ts22",
+    "timeStamp1": 44815,
+    "timeStamp2": 45871,
+    "text": "Matengalo",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MATENGALO",
+        44815,
+        45871
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a13": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a13",
+    "timeSlotRef1": "ts23",
+    "timeSlotRef2": "ts24",
+    "timeStamp1": 46642,
+    "timeStamp2": 50625,
+    "text": "Mateng funauwe ngam sule han tomante ti tie",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MATENG",
+        46642,
+        47332
+      ],
+      [
+        "FUNAUWE",
+        47412,
+        47899
+      ],
+      [
+        "NGAM",
+        47928,
+        48168
+      ],
+      [
+        "SULE",
+        48873,
+        49171
+      ],
+      [
+        "HAN",
+        49331,
+        49469
+      ],
+      [
+        "TOMANTE",
+        49542,
+        49869
+      ],
+      [
+        "TI",
+        49934,
+        50051
+      ],
+      [
+        "TIE",
+        50145,
+        50625
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a14": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a14",
+    "timeSlotRef1": "ts25",
+    "timeSlotRef2": "ts26",
+    "timeStamp1": 52201,
+    "timeStamp2": 56240,
+    "text": "Do nen mam dida ngammadonge yauwe",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        52201,
+        52586
+      ],
+      [
+        "NEN",
+        52659,
+        53036
+      ],
+      [
+        "MAM",
+        53095,
+        53356
+      ],
+      [
+        "DIDA",
+        53545,
+        53676
+      ],
+      [
+        "NGAMMADONGE",
+        54431,
+        55405
+      ],
+      [
+        "YAUWE",
+        55535,
+        56239
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a15": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a15",
+    "timeSlotRef1": "ts27",
+    "timeSlotRef2": "ts28",
+    "timeStamp1": 57160,
+    "timeStamp2": 59871,
+    "text": "Nal ngau pain daboke tamat ngangalenge",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NAL",
+        57160,
+        57712
+      ],
+      [
+        "NGAU",
+        57749,
+        57930
+      ],
+      [
+        "PAIN",
+        58090,
+        58228
+      ],
+      [
+        "DABOKE",
+        58279,
+        58795
+      ],
+      [
+        "TAMAT",
+        58839,
+        59093
+      ],
+      [
+        "NGANGALENGE",
+        59181,
+        59871
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a16": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a16",
+    "timeSlotRef1": "ts29",
+    "timeSlotRef2": "ts30",
+    "timeStamp1": 60079,
+    "timeStamp2": 63712,
+    "text": "Aipainim nganagedine malal mainte ngamadonge Matugar malal ",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "AIPAINIM",
+        60079,
+        60784
+      ],
+      [
+        "NGANAGEDINE",
+        60791,
+        61387
+      ],
+      [
+        "MALAL",
+        61430,
+        61794
+      ],
+      [
+        "MAINTE",
+        61874,
+        61983
+      ],
+      [
+        "NGAMADONGE",
+        62063,
+        62709
+      ],
+      [
+        "MATUGAR",
+        62753,
+        63153
+      ],
+      [
+        "MALAL",
+        63232,
+        63479
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a17": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a17",
+    "timeSlotRef1": "ts31",
+    "timeSlotRef2": "ts32",
+    "timeStamp1": 65418,
+    "timeStamp2": 69422,
+    "text": "Do  ngahau neraurau ngapasimbai main mariu han",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        65418,
+        66166
+      ],
+      [
+        "NGAHAU",
+        67075,
+        67293
+      ],
+      [
+        "NERAURAU",
+        67387,
+        67801
+      ],
+      [
+        "NGAPASIMBAI",
+        67816,
+        68419
+      ],
+      [
+        "MAIN",
+        68470,
+        68601
+      ],
+      [
+        "MARIU",
+        68688,
+        68957
+      ],
+      [
+        "HAN",
+        69008,
+        69421
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a18": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a18",
+    "timeSlotRef1": "ts33",
+    "timeSlotRef2": "ts34",
+    "timeStamp1": 70869,
+    "timeStamp2": 73140,
+    "text": "Ngahau tamat ida ngamadong  ngau tamat",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAHAU",
+        70869,
+        71291
+      ],
+      [
+        "TAMAT",
+        71357,
+        71590
+      ],
+      [
+        "IDA",
+        71706,
+        71954
+      ],
+      [
+        "NGAMADONG",
+        71990,
+        72288
+      ],
+      [
+        "NGAU",
+        72325,
+        72543
+      ],
+      [
+        "TAMAT",
+        72623,
+        73140
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a19": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a19",
+    "timeSlotRef1": "ts35",
+    "timeSlotRef2": "ts36",
+    "timeStamp1": 74450,
+    "timeStamp2": 80220,
+    "text": "Sulelo yakai ilo grek ti ida tidase malalte madonge ngaleuwe",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "SULELO",
+        74450,
+        75119
+      ],
+      [
+        "YAKAI",
+        75169,
+        75598
+      ],
+      [
+        "ILO",
+        75707,
+        75853
+      ],
+      [
+        "GREK",
+        75903,
+        76078
+      ],
+      [
+        "TI",
+        76085,
+        77328
+      ],
+      [
+        "IDA",
+        77778,
+        77931
+      ],
+      [
+        "TIDASE",
+        78004,
+        78621
+      ],
+      [
+        "MALALTE",
+        78774,
+        79428
+      ],
+      [
+        "MADONGE",
+        79471,
+        79777
+      ],
+      [
+        "NGALEUWE",
+        79886,
+        80220
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a21": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a21",
+    "timeSlotRef1": "ts37",
+    "timeSlotRef2": "ts38",
+    "timeStamp1": 81473,
+    "timeStamp2": 85328,
+    "text": "Ngamadondo ngahamam aipainim yamataie ngale matan ti",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAMADONDO",
+        81473,
+        82468
+      ],
+      [
+        "NGAHAMAM",
+        82816,
+        83462
+      ],
+      [
+        "AIPAINIM",
+        83513,
+        84014
+      ],
+      [
+        "YAMATAIE",
+        84043,
+        84246
+      ],
+      [
+        "NGALE",
+        84254,
+        84391
+      ],
+      [
+        "MATAN",
+        84442,
+        84587
+      ],
+      [
+        "TI",
+        84747,
+        85328
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a23": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a23",
+    "timeSlotRef1": "ts39",
+    "timeSlotRef2": "ts40",
+    "timeStamp1": 86828,
+    "timeStamp2": 94656,
+    "text": "Do manig ilomam girenge tan ngambip mariu ngampaip matan ngamngalep ngahamam aipainim ngamyamataiba",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        86828,
+        87242
+      ],
+      [
+        "MANIG",
+        87285,
+        87511
+      ],
+      [
+        "ILOMAM",
+        87590,
+        88092
+      ],
+      [
+        "GIRENGE",
+        88113,
+        88367
+      ],
+      [
+        "TAN",
+        88418,
+        88585
+      ],
+      [
+        "NGAMBIP",
+        88651,
+        89086
+      ],
+      [
+        "MARIU",
+        90125,
+        90364
+      ],
+      [
+        "NGAMPAIP",
+        90408,
+        90909
+      ],
+      [
+        "MATAN",
+        91076,
+        91374
+      ],
+      [
+        "NGAMNGALEP",
+        91410,
+        91737
+      ],
+      [
+        "NGAHAMAM",
+        91773,
+        92354
+      ],
+      [
+        "AIPAINIM",
+        92478,
+        92797
+      ],
+      [
+        "NGAMYAMATAIBA",
+        92855,
+        94656
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a25": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a25",
+    "timeSlotRef1": "ts41",
+    "timeSlotRef2": "ts42",
+    "timeStamp1": 96153,
+    "timeStamp2": 100556,
+    "text": "Do mariu ngampainge bras numau tahaik ilonlo aginon nagenge",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        96153,
+        96567
+      ],
+      [
+        "MARIU",
+        96618,
+        96858
+      ],
+      [
+        "NGAMPAINGE",
+        96901,
+        97628
+      ],
+      [
+        "BRAS",
+        97650,
+        97984
+      ],
+      [
+        "NUMAU",
+        98296,
+        98572
+      ],
+      [
+        "TAHAIK",
+        98623,
+        98863
+      ],
+      [
+        "ILONLO",
+        98972,
+        99393
+      ],
+      [
+        "AGINON",
+        99502,
+        99851
+      ],
+      [
+        "NAGENGE",
+        99909,
+        100556
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a26": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a26",
+    "timeSlotRef1": "ts43",
+    "timeSlotRef2": "ts44",
+    "timeStamp1": 100694,
+    "timeStamp2": 107289,
+    "text": "Yap disinge ngamam mariu didado mainhona  ngahau aipainim adi sule ngadadagokai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "YAP",
+        100694,
+        101028
+      ],
+      [
+        "DISINGE",
+        101123,
+        101660
+      ],
+      [
+        "NGAMAM",
+        101740,
+        102154
+      ],
+      [
+        "MARIU",
+        102227,
+        102481
+      ],
+      [
+        "DIDADO",
+        102626,
+        103519
+      ],
+      [
+        "MAINHONA",
+        103577,
+        103970
+      ],
+      [
+        "NGAHAU",
+        104943,
+        105234
+      ],
+      [
+        "AIPAINIM",
+        105342,
+        105735
+      ],
+      [
+        "ADI",
+        105742,
+        105785
+      ],
+      [
+        "SULE",
+        105829,
+        105996
+      ],
+      [
+        "NGADADAGOKAI",
+        106069,
+        107289
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a28": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a28",
+    "timeSlotRef1": "ts45",
+    "timeSlotRef2": "ts46",
+    "timeStamp1": 107437,
+    "timeStamp2": 111344,
+    "text": "Hadi sulungak nagekanen han ngadadagokai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "HADI",
+        107437,
+        107720
+      ],
+      [
+        "SULUNGAK",
+        107764,
+        108127
+      ],
+      [
+        "NAGEKANEN",
+        108621,
+        109129
+      ],
+      [
+        "HAN",
+        109202,
+        109565
+      ],
+      [
+        "NGADADAGOKAI",
+        109601,
+        111344
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a30": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a30",
+    "timeSlotRef1": "ts47",
+    "timeSlotRef2": "ts48",
+    "timeStamp1": 111907,
+    "timeStamp2": 115824,
+    "text": "Ngahamam madok kabakab adi milo yanikanen main matan  main hona",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAHAMAM",
+        111907,
+        112510
+      ],
+      [
+        "MADOK",
+        112539,
+        112909
+      ],
+      [
+        "KABAKAB",
+        112932,
+        113302
+      ],
+      [
+        "ADI",
+        113317,
+        113462
+      ],
+      [
+        "MILO",
+        113491,
+        113615
+      ],
+      [
+        "YANIKANEN",
+        113637,
+        114269
+      ],
+      [
+        "MAIN",
+        114560,
+        114661
+      ],
+      [
+        "MATAN",
+        114712,
+        114988
+      ],
+      [
+        "MAIN",
+        115054,
+        115177
+      ],
+      [
+        "HONA",
+        115279,
+        115824
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a31": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a31",
+    "timeSlotRef1": "ts49",
+    "timeSlotRef2": "ts50",
+    "timeStamp1": 116579,
+    "timeStamp2": 122575,
+    "text": "Patatan malalte nagekanen mariu han matan honami  ngambi ngammalenggokai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "PATATAN",
+        116579,
+        117073
+      ],
+      [
+        "MALALTE",
+        117102,
+        117544
+      ],
+      [
+        "NAGEKANEN",
+        117573,
+        118082
+      ],
+      [
+        "MARIU",
+        118103,
+        118706
+      ],
+      [
+        "HAN",
+        118735,
+        118960
+      ],
+      [
+        "MATAN",
+        119025,
+        119316
+      ],
+      [
+        "HONAMI",
+        119352,
+        119824
+      ],
+      [
+        "NGAMBI",
+        121232,
+        121544
+      ],
+      [
+        "NGAMMALENGGOKAI",
+        121610,
+        122575
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a33": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a33",
+    "timeSlotRef1": "ts51",
+    "timeSlotRef2": "ts52",
+    "timeStamp1": 124050,
+    "timeStamp2": 130867,
+    "text": "Do gamoni ngau abate wap ngahau ab mainangan mariu han matan honami milo ngamaninggo",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        124050,
+        124464
+      ],
+      [
+        "GAMONI",
+        124594,
+        125037
+      ],
+      [
+        "NGAU",
+        125219,
+        125589
+      ],
+      [
+        "ABATE",
+        125604,
+        125959
+      ],
+      [
+        "WAP",
+        125996,
+        126134
+      ],
+      [
+        "NGAHAU",
+        126141,
+        127114
+      ],
+      [
+        "AB",
+        127607,
+        127673
+      ],
+      [
+        "MAINANGAN",
+        127789,
+        128275
+      ],
+      [
+        "MARIU",
+        128587,
+        128776
+      ],
+      [
+        "HAN",
+        128812,
+        128907
+      ],
+      [
+        "MATAN",
+        128987,
+        129248
+      ],
+      [
+        "HONAMI",
+        129313,
+        129705
+      ],
+      [
+        "MILO",
+        129756,
+        129952
+      ],
+      [
+        "NGAMANINGGO",
+        130039,
+        130867
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a35": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a35",
+    "timeSlotRef1": "ts53",
+    "timeSlotRef2": "ts54",
+    "timeStamp1": 131085,
+    "timeStamp2": 133745,
+    "text": "Mariu han matan honami milo milo hudungan",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MARIU",
+        131085,
+        131666
+      ],
+      [
+        "HAN",
+        131688,
+        131826
+      ],
+      [
+        "MATAN",
+        131884,
+        132190
+      ],
+      [
+        "HONAMI",
+        132233,
+        132539
+      ],
+      [
+        "MILO",
+        132691,
+        132844
+      ],
+      [
+        "MILO",
+        132887,
+        133025
+      ],
+      [
+        "HUDUNGAN",
+        133047,
+        133745
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a36": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a36",
+    "timeSlotRef1": "ts55",
+    "timeSlotRef2": "ts56",
+    "timeStamp1": 135643,
+    "timeStamp2": 144210,
+    "text": "Eblong patatan dabok malalte mateng han o milo yanik han",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "EBLONG",
+        135643,
+        136217
+      ],
+      [
+        "PATATAN",
+        137872,
+        138257
+      ],
+      [
+        "DABOK",
+        138300,
+        138518
+      ],
+      [
+        "MALALTE",
+        138620,
+        139636
+      ],
+      [
+        "MATENG",
+        139723,
+        140355
+      ],
+      [
+        "HAN",
+        140427,
+        140645
+      ],
+      [
+        "O",
+        142090,
+        142177
+      ],
+      [
+        "MILO",
+        143121,
+        143368
+      ],
+      [
+        "YANIK",
+        143397,
+        143665
+      ],
+      [
+        "HAN",
+        143774,
+        144210
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a38": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a38",
+    "timeSlotRef1": "ts57",
+    "timeSlotRef2": "ts58",
+    "timeStamp1": 144390,
+    "timeStamp2": 146854,
+    "text": "Main mariu han matan honami ngamdadagokai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MAIN",
+        144390,
+        144586
+      ],
+      [
+        "MARIU",
+        144681,
+        144870
+      ],
+      [
+        "HAN",
+        144906,
+        145008
+      ],
+      [
+        "MATAN",
+        145080,
+        145357
+      ],
+      [
+        "HONAMI",
+        145422,
+        145677
+      ],
+      [
+        "NGAMDADAGOKAI",
+        145727,
+        146854
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a39": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a39",
+    "timeSlotRef1": "ts59",
+    "timeSlotRef2": "ts60",
+    "timeStamp1": 148340,
+    "timeStamp2": 153967,
+    "text": "Do ngau neraurau songe han tamate gamoni tie maine",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        148340,
+        148645
+      ],
+      [
+        "NGAU",
+        148652,
+        149197
+      ],
+      [
+        "NERAURAU",
+        150801,
+        151339
+      ],
+      [
+        "SONGE",
+        151440,
+        151593
+      ],
+      [
+        "HAN",
+        151651,
+        151978
+      ],
+      [
+        "TAMATE",
+        152086,
+        152413
+      ],
+      [
+        "GAMONI",
+        152493,
+        152754
+      ],
+      [
+        "TIE",
+        152820,
+        153379
+      ],
+      [
+        "MAINE",
+        153451,
+        153967
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a40": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a40",
+    "timeSlotRef1": "ts61",
+    "timeSlotRef2": "ts62",
+    "timeStamp1": 155663,
+    "timeStamp2": 161639,
+    "text": "Do ngau bar ta ngabip tidop  tie",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        155663,
+        155982
+      ],
+      [
+        "NGAU",
+        156048,
+        156396
+      ],
+      [
+        "BAR",
+        156404,
+        156483
+      ],
+      [
+        "TA",
+        156527,
+        156643
+      ],
+      [
+        "NGABIP",
+        156671,
+        157050
+      ],
+      [
+        "TIDOP",
+        158800,
+        159148
+      ],
+      [
+        "TIE",
+        161036,
+        161639
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a41": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a41",
+    "timeSlotRef1": "ts63",
+    "timeSlotRef2": "ts64",
+    "timeStamp1": 163649,
+    "timeStamp2": 165927,
+    "text": "Do bar mainnangan mam Tibud han bar",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "DO",
+        163649,
+        163998
+      ],
+      [
+        "BAR",
+        164086,
+        164268
+      ],
+      [
+        "MAINNANGAN",
+        164333,
+        164821
+      ],
+      [
+        "MAM",
+        164843,
+        164952
+      ],
+      [
+        "TIBUD",
+        165054,
+        165294
+      ],
+      [
+        "HAN",
+        165330,
+        165432
+      ],
+      [
+        "BAR",
+        165592,
+        165927
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a42": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a42",
+    "timeSlotRef1": "ts65",
+    "timeSlotRef2": "ts66",
+    "timeStamp1": 169567,
+    "timeStamp2": 172400,
+    "text": "Oh mam Tibud",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "OH",
+        169567,
+        170170
+      ],
+      [
+        "MAM",
+        170177,
+        171812
+      ],
+      [
+        "TIBUD",
+        171841,
+        172400
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a43": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a43",
+    "timeSlotRef1": "ts67",
+    "timeSlotRef2": "ts68",
+    "timeStamp1": 173396,
+    "timeStamp2": 178743,
+    "text": "Tabudape mam han gamuk tanongpe",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "TABUDAPE",
+        173396,
+        174769
+      ],
+      [
+        "MAM",
+        174929,
+        175350
+      ],
+      [
+        "HAN",
+        175401,
+        175924
+      ],
+      [
+        "GAMUK",
+        175990,
+        176382
+      ],
+      [
+        "TANONGPE",
+        176520,
+        178743
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a44": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a44",
+    "timeSlotRef1": "ts69",
+    "timeSlotRef2": "ts70",
+    "timeStamp1": 179000,
+    "timeStamp2": 183865,
+    "text": "Tabudape mam han gamuk tanongpe",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "TABUDAPE",
+        179000,
+        180234
+      ],
+      [
+        "MAM",
+        180365,
+        180779
+      ],
+      [
+        "HAN",
+        180852,
+        181019
+      ],
+      [
+        "GAMUK",
+        181055,
+        181875
+      ],
+      [
+        "TANONGPE",
+        182311,
+        183865
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a45": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a45",
+    "timeSlotRef1": "ts71",
+    "timeSlotRef2": "ts72",
+    "timeStamp1": 184125,
+    "timeStamp2": 190606,
+    "text": "Tangalepa bubedte bubedte tanagep tangaleptator",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "TANGALEPA",
+        184125,
+        186312
+      ],
+      [
+        "BUBEDTE",
+        186414,
+        187249
+      ],
+      [
+        "BUBEDTE",
+        187358,
+        188187
+      ],
+      [
+        "TANAGEP",
+        188274,
+        188891
+      ],
+      [
+        "TANGALEPTATOR",
+        188957,
+        190606
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a46": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a46",
+    "timeSlotRef1": "ts73",
+    "timeSlotRef2": "ts74",
+    "timeStamp1": 190776,
+    "timeStamp2": 195651,
+    "text": "Hudungan tanonge",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "HUDUNGAN",
+        190776,
+        193609
+      ],
+      [
+        "TANONGE",
+        193747,
+        195651
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a47": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a47",
+    "timeSlotRef1": "ts75",
+    "timeSlotRef2": "ts76",
+    "timeStamp1": 195975,
+    "timeStamp2": 200754,
+    "text": "Hudungan tanonge",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "HUDUNGAN",
+        195975,
+        198938
+      ],
+      [
+        "TANONGE",
+        199439,
+        200754
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a48": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a48",
+    "timeSlotRef1": "ts77",
+    "timeSlotRef2": "ts78",
+    "timeStamp1": 201197,
+    "timeStamp2": 207726,
+    "text": "Tangalepa bubedte bubedte tanagep tangaleptator",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "TANGALEPA",
+        201197,
+        202541
+      ],
+      [
+        "BUBEDTE",
+        202628,
+        203252
+      ],
+      [
+        "BUBEDTE",
+        203318,
+        204182
+      ],
+      [
+        "TANAGEP",
+        204240,
+        205082
+      ],
+      [
+        "TANGALEPTATOR",
+        205133,
+        207726
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a49": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a49",
+    "timeSlotRef1": "ts79",
+    "timeSlotRef2": "ts80",
+    "timeStamp1": 210078,
+    "timeStamp2": 211097,
+    "text": "Mainami",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MAINAMI",
+        210078,
+        211096
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a50": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a50",
+    "timeSlotRef1": "ts81",
+    "timeSlotRef2": "ts82",
+    "timeStamp1": 211413,
+    "timeStamp2": 213765,
+    "text": "Bar malain kai hadokata ngabinge",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "BAR",
+        211413,
+        211748
+      ],
+      [
+        "MALAIN",
+        211799,
+        212112
+      ],
+      [
+        "KAI",
+        212229,
+        212411
+      ],
+      [
+        "HADOKATA",
+        212440,
+        212898
+      ],
+      [
+        "NGABINGE",
+        212906,
+        213765
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a51": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a51",
+    "timeSlotRef1": "ts83",
+    "timeSlotRef2": "ts84",
+    "timeStamp1": 217406,
+    "timeStamp2": 223323,
+    "text": "Painim ainta disop digamukaba managenga hadi sabi matan ti ngambip",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "PAINIM",
+        217406,
+        217667
+      ],
+      [
+        "AINTA",
+        217740,
+        218147
+      ],
+      [
+        "DISOP",
+        218154,
+        218502
+      ],
+      [
+        "DIGAMUKABA",
+        218510,
+        219555
+      ],
+      [
+        "MANAGENGA",
+        219599,
+        220179
+      ],
+      [
+        "HADI",
+        220252,
+        220629
+      ],
+      [
+        "SABI",
+        221900,
+        222045
+      ],
+      [
+        "MATAN",
+        222074,
+        222321
+      ],
+      [
+        "TI",
+        222365,
+        222423
+      ],
+      [
+        "NGAMBIP",
+        222430,
+        223323
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a52": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a52",
+    "timeSlotRef1": "ts85",
+    "timeSlotRef2": "ts86",
+    "timeStamp1": 224507,
+    "timeStamp2": 227222,
+    "text": "Main han liliman ngabinge main huyanami",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "MAIN",
+        224507,
+        224944
+      ],
+      [
+        "HAN",
+        224973,
+        225155
+      ],
+      [
+        "LILIMAN",
+        225322,
+        225730
+      ],
+      [
+        "NGABINGE",
+        225875,
+        226130
+      ],
+      [
+        "MAIN",
+        226167,
+        226283
+      ],
+      [
+        "HUYANAMI",
+        226334,
+        227222
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a53": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a53",
+    "timeSlotRef1": "ts87",
+    "timeSlotRef2": "ts88",
+    "timeStamp1": 229292,
+    "timeStamp2": 230411,
+    "text": "Eseidi",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "ESEIDI",
+        229292,
+        230411
+      ]
+    ]
+  }
+}

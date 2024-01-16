@@ -1,0 +1,113 @@
+{
+  "Cathy Samun Wiliang_a1": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a1",
+    "timeSlotRef1": "ts1",
+    "timeSlotRef2": "ts2",
+    "timeStamp1": 4730,
+    "timeStamp2": 7480,
+    "text": "Yangau Cathy Samun ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "YANGAU",
+        "0.000",
+        "0.677"
+      ],
+      [
+        "CATHY",
+        "1.564",
+        "1.957"
+      ],
+      [
+        "SAMUN",
+        "2.015",
+        "2.386"
+      ],
+      [
+        "AI",
+        "2.546",
+        "2.750"
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a2": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a2",
+    "timeSlotRef1": "ts3",
+    "timeSlotRef2": "ts4",
+    "timeStamp1": 8860,
+    "timeStamp2": 10780,
+    "text": "Ngahau mam yangan Daidai ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAHAU",
+        "0.000",
+        "0.356"
+      ],
+      [
+        "MAM",
+        "0.436",
+        "0.567"
+      ],
+      [
+        "YANGAN",
+        "0.647",
+        "0.793"
+      ],
+      [
+        "DAIDAI",
+        "0.822",
+        "1.207"
+      ],
+      [
+        "AI",
+        "1.215",
+        "1.920"
+      ]
+    ]
+  },
+  "Cathy Samun Wiliang_a3": {
+    "tiername": "Cathy Samun Wiliang",
+    "annoID": "a3",
+    "timeSlotRef1": "ts5",
+    "timeSlotRef2": "ts6",
+    "timeStamp1": 11821,
+    "timeStamp2": 14853,
+    "text": "Ngau tamat yangan Wiliang Yasung ai",
+    "tier_new": "Cathy Samun Wiliang_words",
+    "words": [
+      [
+        "NGAU",
+        "0.000",
+        "0.516"
+      ],
+      [
+        "TAMAT",
+        "0.618",
+        "0.851"
+      ],
+      [
+        "YANGAN",
+        "0.938",
+        "1.222"
+      ],
+      [
+        "WILIANG",
+        "1.323",
+        "1.672"
+      ],
+      [
+        "YASUNG",
+        "2.210",
+        "2.763"
+      ],
+      [
+        "AI",
+        "2.770",
+        "3.032"
+      ]
+    ]
+  }
+}
